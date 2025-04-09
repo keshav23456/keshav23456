@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav</h1>
-<h3 align="center">A passionate full-stack developer from India, building scalable applications with Python, Java, Go, and JavaScript. 🚀</h3>
+<h3 align="center">A passionate full-stack developer from India, building scalable applications with Python, Java,  and JavaScript. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav23456&label=Profile%20views&color=0e75b6&style=flat" alt="keshav23456" /> </p>
 
